@@ -1,0 +1,11 @@
+{
+  "name": "Corelytic Motion Recipes",
+  "version": 1,
+  "includes": [
+    "industry motion presets",
+    "hook logic",
+    "cta patterns",
+    "variation archetypes",
+    "timeline scene structures"
+  ]
+}
